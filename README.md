@@ -1,3 +1,25 @@
+FastGo - GroceryApp       Netlify Deploy Link:- fastgo-grocery-app.netlify.app
+
+Description: Designed and developed the frontend of an e-commerce grocery shopping web
+application using React and Tailwind CSS.
+
+The app provides an intuitive user interface for
+browsing products, adding items to the cart, and making secure online purchases.
+
+Implemented smooth scrolling effects for enhanced user experience. Deployed the project on
+Netlify for online accessibility: fastgo-grocery-app.netlify.app.
+
+Skills Demonstrated:
+Front-end web development with React
+Responsive UI/UX design using Tailwind CSS
+Implementing smooth scrolling effects for user-friendly navigation
+Deploying web applications on Netlify for public access
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
